@@ -15,3 +15,6 @@ int main() {
     
     return 0;
 }
+
+// %f. for float numbers
+// %d for check then
